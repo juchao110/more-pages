@@ -7,7 +7,8 @@ module.exports = {
 }
 
 function resolvePages(page) {
-  let index = {
+  let
+    index = {
       entry: 'src/pages/index/main.js',
       template: 'src/public/index.html',
       filename: 'index.html',
